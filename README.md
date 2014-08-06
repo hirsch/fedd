@@ -4,6 +4,7 @@ fedd
 Fedd creates a search index to use with gedd.
 
 NO WARRANTY FOR LIABILITY OR ANY DAMAGES RESULTING FROM THE USAGE OF THIS PROGRAM!
+
 Read LICENSE for additional information.
 
 ####Usage
