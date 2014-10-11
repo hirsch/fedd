@@ -33,7 +33,7 @@ The index.fed file will be placed at D:\.
 
 You can either use
 ```
-go get https://github.com/hirsch/fedd
+go get github.com/hirsch/fedd
 ```
 or download it and navigate into the directory followed by
 ```
